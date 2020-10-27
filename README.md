@@ -6,7 +6,9 @@ Hello
 Setup Module
 
 pip install googletrans
+
 pip install keyboard
+
 pip install pyperclip
 
 How does it work?
